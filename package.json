@@ -1,0 +1,23 @@
+{
+  "name": "ivqsplit",
+  "version": "1.0.0",
+  "description": "a batch long IVQ to shorter IVQ creator",
+  "main": "quiz70.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SBUtltmedia/IVQSPlit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SBUtltmedia/IVQSPlit/issues"
+  },
+  "homepage": "https://github.com/SBUtltmedia/IVQSPlit#readme",
+  "dependencies": {
+    "csv-parser": "^2.3.0",
+    "hh-mm-ss": "^1.2.0"
+  }
+}
